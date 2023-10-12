@@ -25,7 +25,7 @@ Information som kan hämtas från Open-data API inkluderar:
 * Skolenhetsinformation med identifierare i UUID-format
 * Studievägsinformation
 * Aktuella ämnen och kurser där det genomförs nationella prov och bedömningsstöd.
->[Läs mer om open-data API](./open-data-api/README.md)
+>[Läs mer om open-data API](open-data-api/README.md)
 
 ### Authentication API (Provtjänstens auktoriseringsserver)
 Detta är ett API för autentisering och auktorisering som används för att autentisera klienter inför maskinell
